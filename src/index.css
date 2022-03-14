@@ -89,9 +89,14 @@ body {
   background: var(--clr-grdt-cold), url(./assets/img/ice.gif);
 }
 
+.controls {
+  display: flex;
+  justify-content: center;
+}
+
 .btn {
   border: none;
-  font-size: 4.8rem;
+  font-size: 3.6rem;
   width: 10rem;
   height: 10rem;
   margin: 0.5em;
@@ -102,4 +107,10 @@ body {
 
 .btn:hover {
   background-color: var(--clr-white);
+}
+
+@media (max-width: 450px) {
+  :root {
+    font-size: 50%;
+  }
 }

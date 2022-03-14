@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/temperature-control/static/css/main.7e114c1f.css",
+    "main.css": "/temperature-control/static/css/main.bdf4a1c6.css",
     "main.js": "/temperature-control/static/js/main.b58399c1.js",
     "static/js/787.5a5c7b88.chunk.js": "/temperature-control/static/js/787.5a5c7b88.chunk.js",
     "static/media/spring.gif": "/temperature-control/static/media/spring.9e1230cb6e6bc5231f21.gif",
     "static/media/fire.gif": "/temperature-control/static/media/fire.bd3df9314e08c87b3005.gif",
     "static/media/ice.gif": "/temperature-control/static/media/ice.18d59c782ceb76511d82.gif",
     "index.html": "/temperature-control/index.html",
-    "main.7e114c1f.css.map": "/temperature-control/static/css/main.7e114c1f.css.map",
+    "main.bdf4a1c6.css.map": "/temperature-control/static/css/main.bdf4a1c6.css.map",
     "main.b58399c1.js.map": "/temperature-control/static/js/main.b58399c1.js.map",
     "787.5a5c7b88.chunk.js.map": "/temperature-control/static/js/787.5a5c7b88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e114c1f.css",
+    "static/css/main.bdf4a1c6.css",
     "static/js/main.b58399c1.js"
   ]
 }
